@@ -1,0 +1,6 @@
+{
+  "name": "StudioOS — Personal OS & Creator Studio",
+  "description": "A mobile-responsive, multi-color Personal OS & Creator Studio with a Life Dashboard, AI-powered Second Brain, and Kanban Edit Desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
